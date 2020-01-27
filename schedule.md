@@ -103,7 +103,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td>
 </tr>
 <tr>
-    <td valign="top">wk 4<p>No Class - President's Day. & Feb 19</p></td>
+    <td valign="top">wk 4<p>No Class - President's Day </p> <p> & Feb 19</p></td>
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
       <li> Moodboards, word lists, referencing, research types</li>
        <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
@@ -143,8 +143,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
     <td valign="top">wk 6 <p>March 2 & March 4</p></td>    
-    <td valign="top">
-    <ul>
+   <td valign="top"><strong> Review of Homework<br>Prototyping Exercises</strong> </td>
+    <td>
+      <ul>
     <li> <a href="constant_input_output.md">constant input/output</a></li>
     <li><a href="FutureweeklyBrief.md">Future Project </a></li>
     <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Future project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
