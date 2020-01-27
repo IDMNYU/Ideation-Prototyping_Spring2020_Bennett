@@ -85,7 +85,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Feb 10 & Feb 12</p></td>
     <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
-
 <li>Review Homework</li>
 <li> Present Classmate discovery </li>
 <li>Discuss <a href = "https://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER Technique by Michael Michalko</a></li>
@@ -97,7 +96,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
      <li><a href = "Future.md">Future: </a>Part 1: Choose & RESEARCH. <a href = "Future.md">See the Future Weekly Brief</a> </li>
      <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
-       <li>Make sure you have been inducted to the [NYU Maker Space](https://engineering.nyu.edu/research-innovation/makerspace) as well as any machines you want to use</li>
+       <li>Make sure you have been inducted to the <a href = "https://engineering.nyu.edu/research-innovation/makerspace">NYU Maker Space </a> as well as any machines you want to use</li>
     <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
 </td>
@@ -112,11 +111,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "MidTerm.md">MidTerm</a></li>
-    <li>Storyboard draft</li>
-    <li>revised moodboard</li>
-    <li>annotated bibliography (draft)</li>
-    <li> post addition word lists, mindmaps, etc to your process site </li>
+    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
      <li>Watch</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
