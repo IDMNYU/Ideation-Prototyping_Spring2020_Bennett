@@ -103,8 +103,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td>
 </tr>
 <tr>
-    <td valign="top">wk 4<p>Feb 19</p></td>
-     <td valign="top"><strong> No Class - President's Day </strong> <br>
+    <td valign="top">wk 4<p>No Class - President's Day. & Feb 19</p></td>
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
       <li> Moodboards, word lists, referencing, research types</li>
        <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
