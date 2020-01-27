@@ -176,7 +176,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
 </td></tr>
 <tr>
-    <td valign="top">wk 9 <p>March 30 and April 1/p></td>    
+    <td valign="top">wk 9 <p>March 30 and April 1</p></td>    
     <td valign="top"><strong> Review of Homework</strong> </td>
     <td valign="top">
       <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
@@ -212,6 +212,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">Review Homework</td>  
     <td valign="top"> 
        <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li> Create, prepare and practice your presentation on your Constant I/O project</li>
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li>
     </td>
@@ -219,10 +220,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 
 <tr>
     <td valign="top">wk 13<p>April 27 & April 29</p></td> 
-    <td valign="top">Review Homework</td>  
+    <td valign="top">Review Homework <p> Constant Input/Output Presentations </p></td>  
     <td valign="top"> 
     <li><a href="FutureweeklyBrief.md">Future Project </a></li>
-    <li> Post the "take aways" from the book:Don't Read This Book </li>
+    <li> Post the "take aways" from Don't Read This Book </li>
     </td>
 </tr>
 <tr>
