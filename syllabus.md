@@ -1,4 +1,4 @@
-# DM-GY 6053 B Ideation and Prototyping
+# DM-UY 1143 B  Ideation and Prototyping
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 

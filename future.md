@@ -2,6 +2,8 @@
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
 
+# Future Project
+
 _This project can be done as a team or as an individual._
 
 For the final project in this course, you will be creating a speculative design project. Speculative design also goes by many other names. Depending on who you talk to, they might call it: 
