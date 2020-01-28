@@ -15,5 +15,5 @@ Create each of the following with regard to the final project, and post to your 
 Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
 * Began researching and collecting materials for your Future Project.
      
-
+---
 
