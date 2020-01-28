@@ -169,7 +169,7 @@ Incomplete or unsatisfactory work (lacking depth and noteable development stride
 *   12% [Constant Input/Output](constant_input_output.md)
 *   15% [Process Website](process_website.md), including all written reflections
 *   25% [Future Dystopia / Utopia Project: Midterm](future.md)
-*   25% [Future Dystopia / Utopia Project: Final]()  [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   25% [Future Dystopia / Utopia Project: Final](Future_weeklyBrief.md) 
 
 ##### Qualitative Grading Overview
 
@@ -275,7 +275,7 @@ Context and discussion of each assignment is addressed within the assigned modul
 
 #### Project
 * [Future](future.md)
-* [Future Weekly Brief](future_weeklyBrief.md)
+* [Future Weekly Brief](Future_weeklyBrief.md)
 
 #### Assignments
 * [Constant Input/Output Choices](constant_input_choices.md)
