@@ -1,4 +1,4 @@
-# DM-UY 1143 B  Ideation and Prototyping
+# DM-UY 1143 B Ideation and Prototyping
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
@@ -168,8 +168,8 @@ Incomplete or unsatisfactory work (lacking depth and noteable development stride
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input/Output](constant_input_output.md)
 *   15% [Process Website](process_website.md), including all written reflections
-*   25% [Future Dystopia / Utopia Project](future.md)
-*   25% [MidTerm]()  [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
+*   25% [Future Dystopia / Utopia Project: Midterm](future.md)
+*   25% [Future Dystopia / Utopia Project: Final]()  [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 ##### Qualitative Grading Overview
 
@@ -273,18 +273,19 @@ Post all homework assignments to your Process Site by Sunday Noon. Period. Other
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
 
 
-#### Projects
-* [MidTerm](MidTerm.md)
-* [Final Project](future.md)
+#### Project
+* [Future](future.md)
+* [Future Weekly Brief](Future_weeklyBrief.md]
 
 #### Assignments
 * [Constant Input/Output Choices](constant_input_choices.md)
-  * [Care Package](Care_Package.md)
-  * [Input Map](input_map.md)
+* [Care Package](Care_Package.md)
+* [Input Map](input_map.md)
 * [Process Website](process_website.md)
-  * [Object Evolution Timeline](narrative_timeline.md)
+* [Object Evolution Timeline](narrative_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
+* [Future](future.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
