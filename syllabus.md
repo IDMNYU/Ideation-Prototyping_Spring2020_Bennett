@@ -275,7 +275,7 @@ Context and discussion of each assignment is addressed within the assigned modul
 
 #### Project
 * [Future](future.md)
-* [Future Weekly Brief](Future_weeklyBrief.md]
+* [Future Weekly Brief](future_weeklyBrief.md)
 
 #### Assignments
 * [Constant Input/Output Choices](constant_input_choices.md)
