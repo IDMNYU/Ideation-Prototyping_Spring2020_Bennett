@@ -76,7 +76,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>  
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website.</li> 
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website.</li>
-     <li>Post your <a href= "constant_input_output.md">constant input/output</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website.</li>
+     <li>Post to your <a href= "constant_input_output.md">constant input/output</a> details to your process website: What are you going to do? What does this mean? What SPECIFIC resources are you going to utilize? What is the next step? What is the step after that? Include your proposed schedule (when? actual dates. make due dates Sundays - noon.) Post to your process website, under constant input/output.</li>
     <li> Read - Show Your Work </li>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     <li> Post your sketchbook work to your Process site </li>
