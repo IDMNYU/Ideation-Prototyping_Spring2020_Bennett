@@ -22,7 +22,7 @@ Imagine our civilization 20 years from now. Things have either collapsed beyond 
 
 This will involve a deep and a variety of research methods, ideation, development and iteration. Only after this point, will you be best equipt to decide if this is a dystopia or utopia
 
-* What message would you transmit to the current population from the future?
+
 
 Only after a sustained level of multifacted research, will you begin to be able to tell a story of this world. Since you are creating either a dystopia or utopia, you must send a message back whether it is a warning, suggestion, hope, or blessing, etc.
 
