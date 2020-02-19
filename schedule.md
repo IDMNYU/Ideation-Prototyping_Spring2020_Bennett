@@ -93,7 +93,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </td>  
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <ul>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
      <li><a href = "future.md">Future: </a>Part 1: Choose & RESEARCH. <a href = "Future_weeklyBrief.md">See the Future Weekly Brief</a> </li>
      <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
        <li>Make sure you have been inducted to the <a href = "https://engineering.nyu.edu/research-innovation/makerspace">NYU Maker Space </a> as well as any machines you want to use</li>
