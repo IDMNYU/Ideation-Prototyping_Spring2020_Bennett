@@ -6,18 +6,18 @@
 * Create a post that is a written statement regarding what your Future project is going to be about. Where are you at the end of your card sorting? What sort of specific ideas arose from the interplay and ideation of your themes, descriptors and enabler cards?
 
 * Develop the world that your future is. What is your future like? (pick at least 8 to incorporate into your world and write a post on your blog detailing this):
-     > government
-  > living conditions
-   > health
-   > food 
-   > economy
-   > climate
-   > shared values
-  > work conditions
-   >  communication
-   > information
-   > learning
-   > transportation
+     > government <br>
+  > living conditions <br>
+   > health <br>
+   > food <br>
+   > economy<br>
+   > climate<br>
+   > shared values<br>
+  > work conditions<br>
+   >  communication<br>
+   > information<br>
+   > learning<br>
+   > transportation<br>
 
 * Identify Secondary topics, in addtion to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 4 sources minimum.
 
