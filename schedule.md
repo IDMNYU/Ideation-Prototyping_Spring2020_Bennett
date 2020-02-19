@@ -109,7 +109,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       </td>
     <td valign="top">
     <ul>
-    <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
     <li><a href="FutureweeklyBrief.md">Future Project </a></li>
      <li>Watch</li>
         <ul>
