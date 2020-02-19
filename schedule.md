@@ -109,7 +109,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       </td>
     <td valign="top">
     <ul>
-    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+    <li><a href="Future_weeklyBrief.md">Future Project </a></li>
      <li>Watch</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
