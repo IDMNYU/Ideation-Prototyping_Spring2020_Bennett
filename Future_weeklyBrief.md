@@ -23,9 +23,11 @@
 
 * <a href = "narrative_timeline.md">Create a DRAFT timeline for your Future Project, beginning with the present through to your future. *How did this world come into being?* Evidence of your research should be present. This must be clear and readable on your blog.
 
-Read [Module 8](http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj)
+Read [Module 4](http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=drjxy8)
 
-Create each of the following with regard to the final project, and post to your process site under your Future tab:
+Read [Module 9 : Narrative Thread of Influences](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=gsjmzc)
+
+
 
 #### Semester Week 3 | Week 1: Future Project Launch
 
