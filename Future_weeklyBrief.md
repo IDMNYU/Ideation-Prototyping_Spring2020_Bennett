@@ -21,7 +21,7 @@
 
 * Identify Secondary topics, in addtion to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 4 sources minimum.
 
-* <a href = "narrative_timeline.md">Create a DRAFT timeline for your Future Project, beginning with the present through to your future. *How did this world come into being?* Evidence of your research should be present. This must be clear and readable on your blog.
+* <a href = "narrative_timeline.md">Create a DRAFT timeline for your Future Project thread of influences, beginning with the present through to your future. *How did this world come into being?* Evidence of your research should be present. This must be clear and readable on your blog.
 
 Read [Module 4](http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=drjxy8)
 
