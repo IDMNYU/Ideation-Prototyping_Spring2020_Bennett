@@ -128,7 +128,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
     <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
-    <li><a href="Future_weeklyBrief.md">Future Project </a></li>
+    <li><a href="Future_weeklyBrief.md">Future Project</a></li>
     <li><a href="constant_input_output.md">constant input/output</a></li>
     <li> Read - Show Your Work </li>. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/Book_Reflections.md">Post your reflections </a> to your Process site.</ul>
 <li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
@@ -140,7 +140,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td>
       <ul>
     <li> <a href="constant_input_output.md">constant input/output</a></li>
-    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+    <li><a href="Future_weeklyBrief.md">Future Project</a></li>
     <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) Future project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
     <li> Post your sketchbook work to your Process site </li>
     </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
@@ -151,7 +151,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"><strong> Review of Homework<br>Prototyping Exercises</strong> </td>
     <td valign="top">
       <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
-       <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li><a href="Future_weeklyBrief.md">Future Project</a></li>
       <li> Watch an episode of <a href = "https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2">Abstract: The Art of Design</a> and write a reflection on what you learned about their process. Be thoughtful, detailed and specific. What did you gain? How are you better informed now?</li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your sketchbook work to your Process site </li>
