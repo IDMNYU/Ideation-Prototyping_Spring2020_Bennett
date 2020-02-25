@@ -1,7 +1,41 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
-#### Semester Week 4 | Week 2: Future Project Launch
+#### Semester Week 5 | Week 4: Future Project: Dive Deeper
+
+* Recap: Mind-mapping; concept mapping; card sorting; reflection
+
+Revisit your ideation exercises thus far: mind-mapping, concept mapping, card sorting. What can be developed further? What topics are you interested in, that have gotten lost so far? Look over your previous exercises to see what "gold nuggets" lie within there, that need dusting off and exploring. Do additional mind-mapping and concept mapping to further explore each of these. 
+
+This is important as this informs your research.
+
+These do not need to be directly related to your idea. Remember that your ideas exists within your world. Your world is not solely nor strictly your idea. Rather, your world is larger than your idea. What else is going on in your world?
+
+Write a reflection about what has developed after your ideation. How is your project developing?
+
+* Headlines from the Future
+
+What does a major newspaper front page look like, from your given world? Check out major national new sites(such as The New York Times, Washington Post, NPR, CNN, etc). Note the diversity of news stories, across the spectrum. Note that they are not all related to one topic (unless there is a severe crisis or huge "break" in the news). This diversity should exemplify the diversity of your world development. Think of this as snap shot of time. What all is going on with your world?
+
+These are the gold nuggets (developed and formed from previous ideation exercises) to research and to develop into your story. Research these to add to your arsenal and bibliography.
+
+
+* Moodboard
+
+Create a visual moodboard that describes your world. This should be large, dense and diverse. Not cursory. This is a visual board of visual influences for your world. What does it look like? What things are you re-mixing from the past, that exist in this future? What are the visuals of this world? Colors? Urban areas? Rural areas?
+
+
+* Annotated Bibliography - 4 new sources (different topics than last week)
+
+Futher develop your annotated bibliography to have at least 4 additional sources. These sources must be topically diverse from your other sources. Discuss what they add to your story, as well as their relevance. 
+
+
+* Time Line
+
+Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
+
+
+#### Semester Week 4 | Week 2: Future Project Ideation + World Development
 
 * Create a post that is a written statement regarding what your Future project is going to be about. Where are you at the end of your card sorting? What sort of specific ideas arose from the interplay and ideation of your themes, descriptors and enabler cards?
 
