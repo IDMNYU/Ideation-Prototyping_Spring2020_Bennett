@@ -5,7 +5,7 @@
 
 * Recap: Mind-mapping; concept mapping; card sorting; reflection
 
-Revisit your ideation exercises thus far: mind-mapping, concept mapping, card sorting. What can be developed further? What topics are you interested in, that have gotten lost so far? Look over your previous exercises to see what "gold nuggets" lie within there, that need dusting off and exploring. Do additional mind-mapping and concept mapping to further explore each of these. 
+Revisit your ideation exercises thus far: mind-mapping, concept mapping, card sorting. What can be developed further? What topics are you interested in, that have gotten lost so far? Look over your previous exercises to see what "gold nuggets" lie within there, that need dusting off and exploring. Do additional mind-mapping and concept mapping to further explore each of these. (If you did not do a concept map previously, do a concept map with regard to your idea & or world).
 
 This is important as this informs your research.
 
