@@ -7,7 +7,9 @@
 
 * Moodboard: Elaborate on your moodboard. There should be diversity, as well as repetition. What does your world look like? What is going on in your world? These Moodboards should be active and diverse.
 
-* Read [Module 9](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=fuqopr) & Prototyping. Develop one of the paper prototypes from the exercise in class and iterate upon it. Create and expand upon it on paper. Create a low-fi physical version. Document this on your process site with a description & reflection. What is the object and what is the significance?
+* Read [Module 9](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=fuqopr) & Prototyping. Repeat the exercise in class: Sketch an item/tool/mechanism from your world. Spend 5 minutes giving visuals to this thing. Use paper and pen/pencil/marker. Then repeat this process 3 times. After the 3 you created from class, you should have 6  different sketches total. These sketches should be at least 4 different items. You may iterate on 2 of them, should you wish.
+
+* Develop one of the paper prototypes from the exercise in class and iterate upon it. Create and expand upon it on paper. Create a low-fi physical version. Document this on your process site with a description & reflection. What is the object and what is the significance?
 
 * Storyline - create a post that describes the loose storyline that you are creating.
 
