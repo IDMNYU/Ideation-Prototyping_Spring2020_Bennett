@@ -11,9 +11,7 @@
 
 * Storyline - create a post that describes the loose storyline that you are creating.
 
-* Time Line
-
-Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
+* Time Line - Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
 
 
 #### Semester Week 5 | Week 4: Future Project: Dive Deeper
