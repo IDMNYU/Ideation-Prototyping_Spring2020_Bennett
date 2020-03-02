@@ -1,9 +1,9 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
-#### Semester Week 6 | Week 5: Future Project: Prototype & Complexity of Stories
+#### Semester Week 6 | Week 5: Future Project: Prototype & Plot Thickening
 
-* Annotated Bibliography - 6 new sources (different topics than last week). Look at your Headlines and Timeline. What there can be researched to add value? Your plot should be thickening. What can give your story a twist?
+* Annotated Bibliography - 6 new sources (different topics than last week). Look at your Headlines and Timeline. What there can be researched to add value & depth? Your plot should be thickening. What can give your story a twist?
 
 * Moodboard: Elaborate on your moodboard. There should be diversity, as well as repetition. What does your world look like? What is going on in your world? These Moodboards should be active and diverse.
 
