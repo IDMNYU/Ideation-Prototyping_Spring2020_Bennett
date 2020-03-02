@@ -1,6 +1,21 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 6 | Week 5: Future Project: Prototype & Complexity of Stories
+
+* Annotated Bibliography - 6 new sources (different topics than last week). Look at your Headlines and Timeline. What there can be researched to add value? Your plot should be thickening. What can give your story a twist?
+
+* Moodboard: Elaborate on your moodboard. There should be diversity, as well as repetition. What does your world look like? What is going on in your world? These Moodboards should be active and diverse.
+
+* Read [Module 9](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=fuqopr) & Prototyping. Develop one of the paper prototypes from the exercise in class and iterate upon it. Create and expand upon it on paper. Create a low-fi physical version. Document this on your process site with a description & reflection. What is the object and what is the significance?
+
+* Storyline - create a post that describes the loose storyline that you are creating.
+
+* Time Line
+
+Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
+
+
 #### Semester Week 5 | Week 4: Future Project: Dive Deeper
 
 * Recap: Mind-mapping; concept mapping; card sorting; reflection
