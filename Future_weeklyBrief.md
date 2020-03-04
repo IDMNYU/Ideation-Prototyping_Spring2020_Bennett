@@ -13,7 +13,7 @@
 
 * Time Line - Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
 
-* Identify 4-6 prominent people in your world, whether prominent in power, struggle, grief, success or strife. *These are not specific individuals* (ie, The President/Ruler, Bob Smith, etc). Rather a collection of people. Perhaps they hold a role; Perhaps they are found in a certain predicament, or group. These 4-6 are not from the same group, but different groups.
+* Identify 4-6 prominent people in your world, whether prominent in power, struggle, grief, success or strife. *These are not specific individuals* (ie, The President/Ruler, Bob Smith, etc). Rather a collection of people. Perhaps they hold a role; Perhaps they are found in a certain predicament, or group. These 4-6 are not from the same group, but different groups. *Ideally they have some connection to your object.*
 
 #### Semester Week 5 | Week 4: Future Project: Dive Deeper
 
