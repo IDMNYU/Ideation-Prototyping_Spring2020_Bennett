@@ -3,7 +3,7 @@
 
 #### Semester Week 6 | Week 5: Future Project: Prototype & Plot Thickening
 
-* Annotated Bibliography - 6 new sources (different topics than last week). Look at your Headlines and Timeline. What there can be researched to add value & depth? Your plot should be thickening. What can give your story a twist?
+* Annotated Bibliography - 6 new sources (different topics than last week). Look at your Headlines and Timeline. What there can be researched to add value & depth? Your plot should be thickening. What can give your story a twist? What is a major challenge to your world?
 
 * Read [Module 9](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=fuqopr) & Prototyping. Repeat the exercise in class: Sketch an item/tool/mechanism from your world. Spend 5 minutes giving visuals to this thing. Use paper and pen/pencil/marker. Fill up the paper with sketches of what this thing is, looks like, and how it works. Then repeat this process 3 times. After the 3 you created from class, you should have 6  different sketches total. These sketches should be at least 4 different items. You may iterate on 2 of them, should you wish.
 
@@ -13,6 +13,7 @@
 
 * Time Line - Develop your timeline to include your latest developments. Do another iteration. If the previous version was super rough, make this one more pleasing visually. 
 
+* Identify 4-6 prominent people in your world, whether prominent in power, struggle, grief, success or strife. *These are not specific individuals* (ie, The President/Ruler, Bob Smith, etc). Rather a collection of people. Perhaps they hold a role; Perhaps they are found in a certain predicament, or group. These 4-6 are not from the same group, but different groups.
 
 #### Semester Week 5 | Week 4: Future Project: Dive Deeper
 
