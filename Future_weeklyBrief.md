@@ -11,8 +11,8 @@
 3. Prototype Object: an iteration of your object that is developed and/or refined. If you are not developing the low-fi prototype from last week, first do a detailed sketch of what this object is. This can be digital or physical prototype. This is ultimately due March 29th.
 
 4. Draft of your [Storyboard](https://github.com/IDMNYU/Ideation-Prototyping_Spring2020_Bennett/tree/master/storyboardTemplates). This is *not a summary of your timeline*. It is a more focused, down on the ground, story. This is from the view point of the people in your world.
-- What are the challenges that your people struggle with? What are the contraints and problems? What comes in with a saving or destroying force?
-- Capture the critical segments in a particular window. Think of it as a major scene by major scene of your story (versus moment to moment). Think less about specific details and more about specific points within the story. [An example of major scenes](https://www.youtube.com/watch?v=MRyPSOyC7_c) versus the actual [story](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
+  - What are the challenges that your people struggle with? What are the contraints and problems? What comes in with a saving or destroying force?
+  - Capture the critical segments in a particular window. Think of it as a major scene by major scene of your story (versus moment to moment). Think less about specific details and more about specific points within the story. [An example of major scenes](https://www.youtube.com/watch?v=MRyPSOyC7_c) versus the actual [story](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
 
 
 5. Annotated Bibliography additions: Research an analgous time in history, force (ie, company, scientific event, crisis), or object to inform and develop your story. 
