@@ -4,15 +4,17 @@
 
 #### Semester Week 7 | Week 6: Future Project: Prototype & Plot Thickening
 
+* Post the concept map(s) and Fill-in-the-Blank work from class. In a brief paragraph, discuss these developments. Also please post any previous work from class exercises (Day-in-the-life etc etc.)
+
 * Create 4 [personas](https://github.com/IDMNYU/Ideation-Prototyping_Spring2020_Bennett/blob/master/Personas.md), one for each of for your prominent groups. This persona for the group, should be a symbolic member of that group. If your group is a minor, designated a spokesperson/conservatorship.
 
 * Prototype Object: an iteration of your object that is developed and/or refined. If you are not developing the low-fi prototype from last week, first do a detailed sketch of what this object is. This can be digital or physical prototype. This is ultimately due March 29th.
 
 * Draft of your [Storyboard](https://github.com/IDMNYU/Ideation-Prototyping_Spring2020_Bennett/tree/master/storyboardTemplates). This is *not a summary of your timeline*. It is a more focused, down on the ground, story. This is from the view point of the people in your world.
 
-What are the challenges that your people struggle with? What are the contraints and problems? What comes in with a saving or destroying force?
+...What are the challenges that your people struggle with? What are the contraints and problems? What comes in with a saving or destroying force?
 
-Capture the critical segments in a particular window. Think of it as a major scene by major scene of your story (versus moment to moment). Think less about specific details and more about specific points within the story. [An example of major scenes](https://www.youtube.com/watch?v=MRyPSOyC7_c) versus the actual [story](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
+...Capture the critical segments in a particular window. Think of it as a major scene by major scene of your story (versus moment to moment). Think less about specific details and more about specific points within the story. [An example of major scenes](https://www.youtube.com/watch?v=MRyPSOyC7_c) versus the actual [story](https://www.youtube.com/watch?v=HyHNuVaZJ-k)
 
 
 * Annotated Bibliography additions: Research an analgous time in history, force (ie, company, scientific event, crisis), or object to inform and develop your story. 
