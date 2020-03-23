@@ -1,6 +1,15 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 8 | Week 7: Future Project: Catch your breath. Reflect. Review:
+
+1. Post what you have not from last week's deliverables (see below)
+
+2. Prototype Object: an iteration of your object that is developed and/or refined. If you are not developing the low-fi prototype from last week, first do a detailed sketch of what this object is. This can be digital or physical prototype. This is ultimately **due March 29th.**
+
+3. Develop your storyboard. Your story should show evidence of your research. This should be evident at multiple points
+
+
 
 #### Semester Week 7 | Week 6: Future Project: The Story Begins
 
