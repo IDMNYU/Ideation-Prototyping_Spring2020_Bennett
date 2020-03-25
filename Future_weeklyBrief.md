@@ -9,6 +9,8 @@
 
 3. Develop your storyboard. Your story should show evidence of your research. This should be evident at multiple points
 
+4. Prepare to present about your latest prototype in class next week. Be able to describe your world to us succintly (3-4 sentences). Then show us your object and tell us about your object. What is the significance of your object? What is it's function? You will have about 4 minutes to present this information to us. 
+
 
 
 #### Semester Week 7 | Week 6: Future Project: The Story Begins
