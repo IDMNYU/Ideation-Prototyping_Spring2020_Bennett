@@ -11,6 +11,8 @@
 
 4. Prepare to present about your latest prototype in class next week. Be able to describe your world to us succintly (3-4 sentences). Then show us your object and tell us about your object. What is the significance of your object? What is it's function? You will have about 4 minutes to present this information to us. 
 
+5. Review the personas assigned to you. See the slack announcement for your assignments.
+
 
 
 #### Semester Week 7 | Week 6: Future Project: The Story Begins
