@@ -161,9 +161,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 8 <p>March 23 & March 25</p></td>    
     <td valign="top"><strong> Review of Homework<br>Prototyping Feedback</strong> </td>
     <td valign="top">
-    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
-    <li> Read the latest letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
-    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. This needs to be something that you have a significant attachement to and something that consumes time/energy. Discuss that time + energy draw in your letter. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+    <li><a href="Future_weeklyBrief.md">Future Project </a></li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
@@ -173,9 +171,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"><strong> Review of Homework</strong> </td>
     <td valign="top">
       <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
-       <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li><a href="Future_weeklyBrief.md">Future Project </a></li>
         <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
-        <li> Read the midterm letters from the last cohort and post a reflection on your process site.</li>
+        <li> Read the latest letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
     <li> Post your sketchbook work to your Process site </li>
     <li> Read - Don't Read This Book </li>
     </td>
@@ -184,7 +182,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 10<p>April 6 & April 8</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top">  
-       <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li><a href="Future_weeklyBrief.md">Future Project </a></li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li></ul>
@@ -194,7 +192,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 11<p>April 13 & April 15</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top"> 
-       <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li><a href="Future_weeklyBrief.md">Future Project </a></li>
   <li>(if applicable this week) <a href="constant_input_output.md">constant input/output project</a></li> 
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li>
@@ -204,7 +202,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 12<p>April 20 & April 22</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top"> 
-       <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+       <li><a href="Future_weeklyBrief.md">Future Project </a></li>
        <li> Create, prepare and practice your presentation on your Constant I/O project</li>
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li>
@@ -215,7 +213,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 13<p>April 27 & April 29</p></td> 
     <td valign="top">Review Homework <p> Constant Input/Output Presentations </p></td>  
     <td valign="top"> 
-    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+    <li><a href="Future_weeklyBrief.md">Future Project </a></li>
     <li> Post the "take aways" from Don't Read This Book </li>
     </td>
 </tr>
@@ -223,7 +221,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 13.5<p>May 4 & May 6</p></td> 
     <td valign="top">Review Homework</td>  
     <td valign="top">
-    <li><a href="FutureweeklyBrief.md">Future Project </a></li>
+    <li><a href="Future_weeklyBrief.md">Future Project </a></li>
     <li>Submit the <a href = "end-of-semester-deliverables.md">End of Semester Deliverables</a> by NOON on May 12th. This work is graded. Late work will not be accepted. </li> 
     </td>
 </tr>
