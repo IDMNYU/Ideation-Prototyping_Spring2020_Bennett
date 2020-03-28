@@ -7,7 +7,7 @@
 
 
 
-### Étrécissement (reductive drawing with paper)
+## Étrécissement (reductive drawing with paper)
 ##### Materials
 * Magazines, printed images
 * scissors, craft/utility knife
@@ -27,7 +27,7 @@ Cut into the image and notice what is underneath. Move or shift the top layer to
 
 
 
-### Collage (additive drawing)
+## Collage (additive drawing)
 ##### Materials
 * Magazines, printed images
 * scissors, craft/utility knife
@@ -44,7 +44,7 @@ Work in layers!
 
 
 
-### Entopic Graphomania 
+## Entopic Graphomania 
 ##### Materials
 * colored pencils
 * pens, brushes
@@ -65,7 +65,7 @@ Use punctuation, a particular letter, vowel, etc. Use different words to have di
 
 
 
-### Make a Pattern
+## Make a Pattern
 ##### Materials
 * black marker
 * scissors
@@ -96,7 +96,7 @@ Use punctuation, a particular letter, vowel, etc. Use different words to have di
 
 
 
-### Make Some Marks
+## Make Some Marks
 ##### Materials
 * black marker (different instruments will create different marks. experiment)
 * sketch book
@@ -112,7 +112,7 @@ Work quickly. Don't be critical of what you are generating while you are in the 
 
 
 
-### Collection of Thoughts
+## Collection of Thoughts
 ##### Materials
 * black marker (different instruments will create different marks. experiment)
 * sketch book
