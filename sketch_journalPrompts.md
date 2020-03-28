@@ -2,11 +2,12 @@
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
 
-### Use the prompts below as mechanisms to use within your sketchbook/journals, in order to develop your practice. Check back regularly as this document will be updated!
+#### Use the prompts below as mechanisms to use within your sketchbook/journals, in order to develop your practice. Check back regularly as this document will be updated!
 
 
 
-#### Étrécissement (reductive drawing with paper)
+
+### Étrécissement (reductive drawing with paper)
 ##### Materials
 * Magazines, printed images
 * scissors, craft/utility knife
@@ -22,7 +23,11 @@ Cut into the image and notice what is underneath. Move or shift the top layer to
 
 
 
-#### Collage (additive drawing)
+
+
+
+
+### Collage (additive drawing)
 ##### Materials
 * Magazines, printed images
 * scissors, craft/utility knife
@@ -36,7 +41,10 @@ Work in layers!
 
 
 
-#### Entopic Graphomania 
+
+
+
+### Entopic Graphomania 
 ##### Materials
 * colored pencils
 * pens, brushes
@@ -54,7 +62,10 @@ Use punctuation, a particular letter, vowel, etc. Use different words to have di
 
 
 
-#### Make a Pattern
+
+
+
+### Make a Pattern
 ##### Materials
 * black marker
 * scissors
@@ -82,7 +93,10 @@ Use punctuation, a particular letter, vowel, etc. Use different words to have di
 ##### Check out [Julia Rothman's work](https://www.juliarothman.com/patterns-1) and her tutorial [here](https://www.skillshare.com/classes/Illustrating-Patterns-Creating-Hand-Drawn-Wallpaper/112402133). The teaser gives you an overview of the technique
 
 
-#### Make Some Marks
+
+
+
+### Make Some Marks
 ##### Materials
 * black marker (different instruments will create different marks. experiment)
 * sketch book
@@ -95,7 +109,10 @@ Work quickly. Don't be critical of what you are generating while you are in the 
 
 
 
-#### Collection of Thoughts
+
+
+
+### Collection of Thoughts
 ##### Materials
 * black marker (different instruments will create different marks. experiment)
 * sketch book
