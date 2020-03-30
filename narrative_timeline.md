@@ -14,7 +14,7 @@ As research for your future utopia / dystopia project, create an evolution timel
 The timeline should reflect:
 * your world and the diversity of activity within it; this relates to your framing story or message for your future Dystopia / Utopia project 
 * It should not be strictly the story nor solely the subject matter of your story. 
-* It should include information about secondary topics (see week 2 for this project in the project briefing) 
+* It should include information about secondary topics (see week 2 for this project in [the project briefing]((/Future_weeklyBrief.md))) 
 
 The timeline should contain **at least** 3 iterations if not more. Each iteration should demonstrate content development, as well as design development.
 
