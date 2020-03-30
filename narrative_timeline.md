@@ -12,8 +12,10 @@ As research for your future utopia / dystopia project, create an evolution timel
 *	an interactive data visualization and embed within your process website.
 
 The timeline should reflect:
-* an object or experience that relates to your framing story or message for your future Dystopia / Utopia project 
+* your world and the diversity of activity within it; this relates to your framing story or message for your future Dystopia / Utopia project 
+* It should not be strictly the story nor solely the subject matter of your story. 
+* It should include information about secondary topics (see week 2 for this project in the project briefing) 
 
-In other words, show the past history of an existing object or experience (as in how it evolved from when it was first made to how it is now). The timeline should contain **at least** 3 iterations if not more. Each iteration should demonstrate content development, as well as design development.
+The timeline should contain **at least** 3 iterations if not more. Each iteration should demonstrate content development, as well as design development.
 
 Post the timeline to your Process site

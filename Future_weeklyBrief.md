@@ -1,6 +1,17 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 9 | Week 8: Storyboard 
+
+1. Iterate and develop your storyboard. It must show evidence of your research and refinement of your story. 
+
+2. What is your message back? Write a reflective post, outlining it.
+
+3. Create a singular document of all of your sources, with annotations as to why they are of value to your project.
+
+4. Finalize your timeline. Ensure that it fits within the [assignment brief](/narrative_timeline.md).
+
+
 #### Semester Week 8 | Week 7: Future Project: Catch your breath. Reflect. Review:
 
 1. Post what you have not from last week's deliverables (see below)
