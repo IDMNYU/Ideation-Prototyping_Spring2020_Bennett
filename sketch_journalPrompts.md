@@ -1,9 +1,11 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+### The Sketchbook/Journal is your respoitory to COLLECT thoughts, ideas, pieces, things of interest, things that inspire you.... If you aren't collecting anything, you are missing on arsenal to look back and to connect ideas. [Watch this short video](https://vimeo.com/223635321).
+
+
 
 #### Use the prompts below as mechanisms to use within your sketchbook/journals, in order to develop your practice. Check back regularly as this document will be updated!
-
 
 
 
