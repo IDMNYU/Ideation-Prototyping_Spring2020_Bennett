@@ -3,4 +3,4 @@
 
 #### Technical Manual + Guide
 
-![manual0](/images/manual0.jpg)
+![manual0](/Photoss/manual0.jpg)
