@@ -7,7 +7,7 @@
 
 2. Refine your message back. Remember you are sending information to the present day. Not vague or general advice. It is a piece of information. Solid information. What might someone need to know?
 
-3. Object: Create a DRAFT of a detailed design guide regarding how to use your object. What is your object for? How is it used? How is it cared for, repaired or maintained? What is sensitive or delicate about your object, that people need to be mindful of?
+3. [Object: Create a DRAFT of a detailed technical manual and guide regarding how to use your object. What is your object for? How is it used? How is it cared for, repaired or maintained? What is sensitive or delicate about your object, that people need to be mindful of?](technicalManualGuide.md)
 
 4. Brain storm ways to present your Future project. This is what will be presented in the final. This is to be a creative endeavor. Think about your world, story and message back. The presentation manner should apropos or fitting to the style of your world. You are invited to have fun and to be wildly imaginative here. Let yourself go and create a HUGE mindmap exploring the possibilities. Do not be limited by the size of the paper, or you will be surely disappointed with the process of creating this and be bored.
 
