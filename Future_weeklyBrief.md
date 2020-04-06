@@ -1,6 +1,18 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 10 | Week 9: The Turning Point
+
+1. Resolve your story. Think about what your message back is (as of right now). How can you create a story that talks about that, while situated in your world? The story happens within your world, but it is not the tale of your world coming into existence.
+
+2. Refine your message back. Remember you are sending information to the present day. Not vague or general advice. It is a piece of information. Solid information. What might someone need to know?
+
+3. Object: Create a DRAFT of a detailed design guide regarding how to use your object. What is your object for? How is it used? How is it cared for, repaired or maintained? What is sensitive or delicate about your object, that people need to be mindful of?
+
+4. Brain storm ways to present your Future project. This is what will be presented in the final. This is to be a creative endeavor. Think about your world, story and message back. The presentation manner should apropos or fitting to the style of your world. You are invited to have fun and to be wildly imaginative here. Let yourself go and create a HUGE mindmap exploring the possibilities. Do not be limited by the size of the paper, or you will be surely disappointed with the process of creating this and be bored.
+
+
+
 #### Semester Week 9 | Week 8: Storyboard 
 
 1. Iterate and develop your storyboard. It must show evidence of your research and refinement of your story. 

@@ -183,6 +183,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">Review Homework</td>  
     <td valign="top">  
        <li><a href="Future_weeklyBrief.md">Future Project </a></li>
+         <li> Read the <strong> latest </strong>letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li>
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li></ul>
