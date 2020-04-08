@@ -19,11 +19,11 @@
 ![manual3](/Photos/manual3.jpg)
 ![manual3](/Photos/manual4.jpg)
 
-### How does one begin to set it your object or prepare it for use?
+### How does one begin to set up your object or prepare it for use?
 ![manual2](/Photos/manual2.jpg)
 ![manual5](/Photos/manual5.jpg)
 
-### What sort of controls or settings does your obejct have? How does one work those controls? How do they set them appropriately? How are they adjusted?
+### What sort of controls or settings does your object have? How does one work those controls? How do they set them appropriately? How are they adjusted?
 ![manual6](/Photos/manual6.jpg)
 ![manual7](/Photos/manual7.jpg)
 
@@ -37,3 +37,5 @@
 
 ### When something goes wrong with the object, how do they solve that problem? Create a troubleshoting guide.
 ![manual12](/Photos/manual12.jpg)
+
+### How is your object packaged, transmitted, shared, absconded, etc?
