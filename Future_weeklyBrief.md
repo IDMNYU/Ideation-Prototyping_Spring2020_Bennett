@@ -1,6 +1,23 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 11 | Week 10: The Jump
+
+1. The final presentation that you are creating for yoru Future Project, must be from that future. Meaning, you can not be in this present and describe that future. You must be an element from that future, or a future further out. This includes media, objects, and people. 
+
+I want to see you use what you have created thus far, for this project, as a launching pad into your Final. I am expecting you to be imaginative, experimental and risky.
+
+In addition to the _method_ you are exploring, create the media used to deliver the information about this world.
+
+Research. Ideate. Prototype. Show evidence of each of these three on your site for next week...........
+
+2. Develop and Refine your message back. Is it included directly in your final? It must be a specific message that comes from your future to our present.
+
+3. Iterate your Technical Manual/Guide
+
+4. Resolve your story.
+
+
 #### Semester Week 10 | Week 9: The Turning Point
 
 1. Resolve your story. Think about what your message back is (as of right now). How can you create a story that talks about that, while situated in your world? The story happens within your world, but it is not the tale of your world coming into existence.
