@@ -1,7 +1,7 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
-#### Semester Week 11 | Week 10: The Jump
+#### Semester Week 11 | Week 10: Take a Leap!
 
 1. The final presentation that you are creating for your Future Project, must be from that future. Meaning, you can not be in this present and describe that future. You must be an element from that future, or a future further out. This includes media, objects, and people. 
 
