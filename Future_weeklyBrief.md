@@ -9,11 +9,13 @@ I want to see you use what you have created thus far, for this project, as a lau
 
 In addition to the _method_ you are exploring, create the media used to deliver the information about this world.
 
-Research. Ideate. Prototype. Show evidence of each of these three on your site for next week...........
+*Research. Ideate. Prototype.* Show evidence of each of these three on your site for next week.
+
 
 2. Develop and Refine your message back. Is it included directly in your final? It must be a specific message that comes from your future to our present.
 
-3. Iterate your Technical Manual/Guide
+3. Iterate your Technical Manual/Guide. Add to and develop your Manual/Guide.
+
 
 4. Resolve your story.
 
