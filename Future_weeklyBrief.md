@@ -1,6 +1,19 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 12 | Week 11: 
+
+1. Create a trial run of your final presentation to present in class this week. Make sure it does not exceed 4 minutes. Prepare your media, and practice it!
+
+2. To prepare your presentation, not only (1) research the technqiues you are using, but (2) refine your content. (3) Connect your message to the presentation. (4) Ensure that your presentation gives us an idea, of what your world is like, and the current standing of the world. Work to connect all of these threads, in a creative, experimental context.
+
+3. As such, develop and iterate your message back. It must be a specific message that comes from your future to our present. If you are at a loss, we can give you feedback on Wednesday
+
+4. Iterate your Technical Manual/Guide. Add to and develop your Manual/Guide.
+
+5. If you are struggling and have not iterated your story previously, revisit it and iterate/develop it. (Remember this class is about process. If your process is off, how are you dealing with that challenge? Are you ignoring it? Attending to it?, etc). This is a great stepping stone to drafting a final presentation (content as well as insights to techniques).
+
+
 #### Semester Week 11 | Week 10: Take a Leap!
 
 1. The final presentation that you are creating for your Future Project, must be from that future. Meaning, you can not be in this present and describe that future. You must be an element from that future, or a future further out. This includes media, objects, and people. 
