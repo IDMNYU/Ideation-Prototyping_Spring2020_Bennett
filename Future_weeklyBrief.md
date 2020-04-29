@@ -1,6 +1,15 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Spring 2020 • Katherine Bennett • Mon/Wed 4:30PM-6:20PM • 2 MetroTech, Room 802
 
+#### Semester Week 13 | Week 12: 
+
+1. Address the weaknesses in your project, especially if I have alerted you to them.
+
+2. Iterate and develop your Final presentation based on feedback from the class. Do the research that is going to develop and deepend your project. 
+
+3. Iterate the message back, as need be.
+
+
 #### Semester Week 12 | Week 11: 
 
 1. Create a trial run of your final presentation to present in class this week. Make sure it does not exceed 4 minutes. Prepare your media, and practice it!
